@@ -137,23 +137,6 @@ Full global ERA5 grid with naive attention would require ~2.3 × 10⁶ GB — en
 
 ---
 
-## Citation
-
-If you use this code or find this work useful, please cite:
-
-```bibtex
-@inproceedings{naithani2026sttn,
-  title     = {Spatio-Temporal Transformer Networks for Hyperlocal Climate Change Prediction: A Model Architecture},
-  author    = {Naithani, Akshit},
-  booktitle = {Proceedings of the 9th International Conference on Modern Computing, Networking and Applications (MCNA2026)},
-  year      = {2026},
-  publisher = {IEEE},
-  address   = {San Antonio, Texas, USA}
-}
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License.
