@@ -1,7 +1,5 @@
 # Spatio-Temporal Transformer Networks for Hyperlocal Climate Change Prediction
 
-[![Conference](https://img.shields.io/badge/MCNA2026-Accepted-blue)](https://mcna-conference.org/2026/)
-[![IEEE](https://img.shields.io/badge/IEEE-Proceedings-blue)](https://mcna-conference.org/2026/)
 [![Python](https://img.shields.io/badge/Python-3.10+-green)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-CUDA-red)](https://pytorch.org/)
 
@@ -9,7 +7,6 @@ Official implementation of the proof-of-concept pilot study from the paper:
 
 > **Spatio-Temporal Transformer Networks for Hyperlocal Climate Change Prediction: A Model Architecture**
 > Akshit Naithani — NMIMS University, Mumbai, India
-> *9th International Conference on Modern Computing, Networking and Applications (MCNA2026), San Antonio, Texas, May 2026*
 
 ---
 
